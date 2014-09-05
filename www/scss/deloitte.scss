@@ -1,0 +1,14 @@
+@import "../../bower_components/normalize.css/normalize.css";
+@import "base/variables";
+@import "base/mixins";
+@import "base/scaffolding";
+@import "base/typeography";
+@import "base/utilities";
+
+
+body, header, main, footer {
+  background: #242922;
+  width: 100%;
+  min-width: 700px;
+}
+
