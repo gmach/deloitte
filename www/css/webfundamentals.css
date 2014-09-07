@@ -1,16 +1,16 @@
 /*
-Syntax error: File to import not found or unreadable: base/variables.
+Syntax error: File to import not found or unreadable: base/mixins.
               Load paths:
                 /home/z/WebstormProjects/test/www/scss
                 /var/lib/gems/1.9.1/gems/compass-0.12.6/frameworks/blueprint/stylesheets
                 /var/lib/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets
                 Compass::SpriteImporter
-        on line 2 of /home/z/WebstormProjects/test/www/scss/main.scss
+        on line 1 of /home/z/WebstormProjects/test/www/scss/webfundamentals.scss
 
-1: /home/z/WebstormProjects/test/www/scss/main.scss
+1: /home/z/WebstormProjects/test/www/scss/webfundamentals.scss
 
 Backtrace:
-/home/z/WebstormProjects/test/www/scss/main.scss:2
+/home/z/WebstormProjects/test/www/scss/webfundamentals.scss:1
 /var/lib/gems/1.9.1/gems/sass-3.2.19/lib/sass/tree/import_node.rb:67:in `rescue in import'
 /var/lib/gems/1.9.1/gems/sass-3.2.19/lib/sass/tree/import_node.rb:45:in `import'
 /var/lib/gems/1.9.1/gems/sass-3.2.19/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -57,4 +57,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: File to import not found or unreadable: base/variables.\A               Load paths:\A                 /home/z/WebstormProjects/test/www/scss\A                 /var/lib/gems/1.9.1/gems/compass-0.12.6/frameworks/blueprint/stylesheets\A                 /var/lib/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets\A                 Compass::SpriteImporter\A         on line 2 of /home/z/WebstormProjects/test/www/scss/main.scss\A \A 1: /home/z/WebstormProjects/test/www/scss/main.scss"; }
+  content: "Syntax error: File to import not found or unreadable: base/mixins.\A               Load paths:\A                 /home/z/WebstormProjects/test/www/scss\A                 /var/lib/gems/1.9.1/gems/compass-0.12.6/frameworks/blueprint/stylesheets\A                 /var/lib/gems/1.9.1/gems/compass-0.12.6/frameworks/compass/stylesheets\A                 Compass::SpriteImporter\A         on line 1 of /home/z/WebstormProjects/test/www/scss/webfundamentals.scss\A \A 1: /home/z/WebstormProjects/test/www/scss/webfundamentals.scss"; }
